@@ -1,0 +1,84 @@
+/* Some kind of Three Responsive, that create basically introduction of three versions.
+ * Mobile basic version of css.
+ * And some kind of responsive.
+ * Within flex to responsive. */
+
+html, body {
+  height:100%;
+  width:100%;
+  border:0;
+  margin:0;
+  padding:0;
+}
+ .flex-parrent > *, .flex-container > *, .flex-container2 > *, .flex-meddium > *, .flex-meddium, .flex-container2 {
+  min-width:320px;
+  color:white;
+  font-family:sans-serif;
+  font-size:30px;
+  text-align:center;
+ }
+ .flex-parrent{
+  display:flex;
+  width:80%;
+  height:auto;
+  margin:0 auto;
+ }
+ .flex-container {
+  display:flex;
+  width:100%;
+  height:auto;
+  flex-flow: row wrap;
+  justify-content:center;
+  align-content:stretch;
+  gap:20px;
+ }
+ .flex-meddium {
+  display:flex;
+  width:100%;
+  height:auto;
+  flex-flow: row wrap;
+  justify-content:center;
+  gap:5px;
+ }
+ .flex-container2 {
+  display:flex;
+  width:60%;
+  height:auto;
+  flex-flow: row wrap;
+  justify-content:center;
+  gap:20px;
+  }
+ .left-column {
+  color:white;
+  font-family:sans-serif;
+  font-size:30px;
+  border-radius:5px;
+  width:400px !important;
+  height:800px;
+  text-align:center;
+  background:black;
+ }
+ .flex-container2 > * {
+  width:360px !important;
+  min-width:400px;
+  color:white;
+  font-family:sans-serif;
+  font-size:30px;
+  border-radius:5px;
+  height:200px; 
+  text-align:center;
+  background:red;
+  border:9px dotted darkred;
+ }
+ .header, .footer, .navigation {
+  width:85%;
+  height:200px;	 
+  background:black;
+  border:9px solid black;
+  border-radius:5px;
+  min-width:320px;
+ }
+ .navigation {
+  height:50px;
+  }
+
