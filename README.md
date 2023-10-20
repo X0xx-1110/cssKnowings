@@ -23,9 +23,9 @@
  
  ### Usage
   
- * Download -> clone. Just a clone.
+ * Download -> clone. Just clone.
  * use .html and see the relative .css
- * Happy and feel free
+ * Happy and feel free today.
 
  ### Targets
 
