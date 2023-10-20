@@ -23,14 +23,14 @@
  
  ### Usage
   
- * Download -> clone
+ * Download -> clone. Just a clone.
  * use .html and see the relative .css
- * Happy and feel free &
+ * Happy and feel free
 
  ### Targets
 
- * Be very good css.
- * See something new.
+ * Be very good with css. All day.
+ * See something new something like ideas.
  * Be happy.
 
  ### Conclusions
@@ -43,7 +43,7 @@
    Kaloyan Hristov
 
  ### Contact.
-   kalata0508@gmail.com
+  [ kalata0508@gmail.com ]
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
