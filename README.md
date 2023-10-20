@@ -1,7 +1,7 @@
 ## What to expecting? CSS & FLEX! Within Ideas!
 
    [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-   [![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
+   [![forthebadge](https://forthebadge.com/images/badges/featured-uses-html.svg)](https://forthebadge.com)
    [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
    
 
