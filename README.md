@@ -16,30 +16,33 @@
 
  ### If there are variant about responsive it will be here!
 
- * Brilliant variant of grids.
+ * Very good variant of grids and my point of view.
  * Brilliant variant of flex and Flex within Flex.
- * ```AWESOME``` responsive. 100% of all mobile styles.
- * Very good mobile versions about there be very good.
- 
+ * ```AWESOME``` responsive. 100% of all mobile styles. Did you like it?
+ * Maybe old variants are better, but new one impress if you got the time about creating it. 
+ * Buttons are still into source and makes opportunities to change the style. 
+
  ### Usage
   
  * Download -> clone. Just clone.
  * use .html and see the relative .css
- * Happy and feel free today.
+ * Feel free today.
 
  ### Targets
 
  * Be very good with css. All day.
  * See something new something like ideas.
- * Be happy.
+ * Working.
+
 
  ### Conclusions
 
- * Flex is very good.
- * grid is a good.
+ * Flex is very,very good.(New ideas, new conslusions.)
+ * grid is a good. Maybe better, than tables.
+ * ```<Button>``` is a very big, maybe huge!
  * Responsive is a must about today.
 
- ### &copy; Copyright 2023
+ ### Release date 2023
    Kaloyan Hristov
 
  ### Contact.
